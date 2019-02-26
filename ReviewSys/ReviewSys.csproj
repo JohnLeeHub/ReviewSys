@@ -336,6 +336,11 @@
     <Content Include="scripts\plugins\fullavatareditor\scripts\jQuery.Cookie.js" />
     <Content Include="scripts\plugins\fullavatareditor\scripts\swfobject.js" />
     <Content Include="scripts\plugins\fullavatareditor\scripts\test.js" />
+    <Content Include="UploadFiles\4aa8c4fea6d842b582bcbfe1fd5efad0.jpg" />
+    <Content Include="UploadFiles\85f8cd5e55c94e74a67a9e64b44dad28.jpg" />
+    <Content Include="UploadFiles\bfa14d6969d3492f8b60d50f8a2acc88.jpg" />
+    <Content Include="UploadFiles\c7a8446d564d4805aa95eed770432258.jpg" />
+    <Content Include="UploadFiles\fabb422ac00244b383c8113d4809e8ce.jpg" />
     <Content Include="UploadFiles\README.md.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
