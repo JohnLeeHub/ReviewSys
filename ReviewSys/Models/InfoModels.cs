@@ -7,8 +7,10 @@ namespace ReviewSys.Models
 {
     public class InfoModels
     {
-        public string BlogName { get; set; }
-        public string BlogAddress { get; set; }
-        public HttpPostedFileBase BlogPhoto { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string type { get; set; }
+        public string lastModifiedDate { get; set; }
+        public string size { get; set; }
     }
 }
